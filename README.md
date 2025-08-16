@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Hossam;Frontend+Developer+at+Engaz+AI;Angular+%7C+MERN+%7C+API+Lover" alt="Typing SVG" />
   </a>
 </h1>
-<h3 align="center">🚀 Full Stack Developer | Angular | MERN | API Lover</h3>
+<h3 align="center">🚀 Full Stack Developer | Angular </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohamedx9090&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
