@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 - 🔭 Frontend Developer at **ENGAZ AI**  
 - 🎓 B.Sc. Computer & Information Science, **Ain Shams University**  
-- ⚡ Working on scalable **MERN projects** & seamless API integrations  
+- ⚡ Building scalable Fullstack projects & seamless API integrations
 - 🎨 Designing front-end UIs, Backend Architecture & APIs  
 - 📧 Reach me at: **ahossamnaggar@gmail.com**  
 - 💡 Motto: *“I build ideas, scalable apps with passion, purpose, and performance.”*  
