@@ -68,9 +68,8 @@
 
 ## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmednaggarhossam&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmednaggarhossam&theme=dracula&no-frame=true&no-bg=true&row=2&column=3" />
 </p>
-
 ---
 
 ## 📈 GitHub Stats
