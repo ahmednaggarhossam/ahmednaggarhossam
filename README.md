@@ -44,7 +44,7 @@
 `HTML` · `CSS` · `JavaScript` · `TypeScript` · `Angular` · `React` · `Next.js` · `TailwindCSS` · `Bootstrap` · `SASS`
 
 **Backend**  
-`Node.js` · `Express.js` · `MongoDB` · `MySQL` · `RESTful APIs` · `GraphQL` · `Socket.IO` · `Docker`
+`Node.js` · `Express.js` · `ASP .NET Core` · `MongoDB` · `MySQL` · `RESTful APIs` · `Socket.IO` · `Docker`
 
 **Tools & Concepts**  
 `Git` · `GitHub` · `Design Patterns` · `Postman` · `Agile` · `Jira` · `DevOps`
@@ -53,16 +53,16 @@
 
 ## 🎓 Education & Training
 - 🎓 B.Sc. in Computer & Information Science, Ain Shams University  
-- 📝 Graduation Project: **Fake News Detection using LSTM, Python, TensorFlow, Flask**  
-- 📚 **Full Stack MERN Diploma** – Route Academy  
+- 📝 Graduation Project: **Face & Fingerprint Recognition System for Missing Persons** using Deep Learning (LSTM, CNN), Python, TensorFlow, and Flask — compares childhood and adulthood images to identify individuals and validates through fingerprint matching.  
+- 📚 **Full Stack Diploma** – Route Academy 
 - 📚 **Angular Frontend Diploma** – Route Academy  
 
 ---
 
 ## 📜 Certifications
-- ✅ Intro to MongoDB – MongoDB University  
+- ✅ Angular - The Complete Guide (2025 Edition) Udemy
 - ✅ Design Patterns – LinkedIn Learning  
-- ✅ Node.js, React, API (FullStack) – Udemy  
+- ✅ Build an app with ASPNET Core and Angular from scratch Udemy
 
 ---
 
