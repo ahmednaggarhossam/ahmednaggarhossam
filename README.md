@@ -104,19 +104,3 @@
 > I craft experiences, solve real-world problems, and aim for excellence in every line.
 
 ---
-
-## 📌 Popular Repositories
-<p align="left">
-  <!-- GitHub repos -->
-  <a href="https://github.com/HexaSoftwareSolutions/hexa-software-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HexaSoftwareSolutions&repo=hexa-software-website&theme=radical" alt="hexa-software-website" />
-  </a>
-  <a href="https://github.com/HexaSoftwareSolutions/youdemi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HexaSoftwareSolutions&repo=youdemi&theme=radical" alt="youdemi" />
-  </a>
-
-  <!-- Custom project (Templatecookie / Poco template) -->
-  <a href="https://www.templatecookie.com/demo/poco-professional-business-free-html-template">
-    <img src="screenshot.png" alt="Poco HTML Template" width="400" />
-  </a>
-</p>
