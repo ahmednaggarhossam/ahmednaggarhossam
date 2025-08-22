@@ -107,8 +107,10 @@
 
 ## 📌 Popular Repositories
 <p align="left">
-  <a href="https://github.com/ahmednaggarhossam/weatherApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmednaggarhossam&repo=weatherApp&theme=radical" /></a>
-  <a href="https://github.com/ahmednaggarhossam/ProductWebApplication"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmednaggarhossam&repo=ProductWebApplication&theme=radical" /></a>
-  <a href="https://github.com/ahmednaggarhossam/CRUDOperation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmednaggarhossam&repo=CRUDOperation&theme=radical" /></a>
-  <a href="https://github.com/ahmednaggarhossam/noze-react-music"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmednaggarhossam&repo=noze-react-music&theme=radical" /></a>
+  <a href="https://github.com/HexaSoftwareSolutions/hexa-software-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HexaSoftwareSolutions&repo=hexa-software-website&theme=radical" alt="hexa-software-website" />
+  </a>
+  <a href="https://github.com/HexaSoftwareSolutions/youdemi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HexaSoftwareSolutions&repo=youdemi&theme=radical" alt="youdemi" />
+  </a>
 </p>
