@@ -73,6 +73,7 @@
 - ✅ Angular - The Complete Guide (2025 Edition) Udemy
 - ✅ Design Patterns – LinkedIn Learning  
 - ✅ Build an app with ASPNET Core and Angular from scratch Udemy
+- ✅ ITI Platform (Mahara-Tech) – The Complete Node.js Course
 
 ---
 
